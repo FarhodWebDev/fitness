@@ -4,7 +4,7 @@ function Login() {
   return (
     <div className='flex'>
       <div className="left-side">
-         
+        
       </div>
       <div>
 
